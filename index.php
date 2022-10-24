@@ -76,7 +76,7 @@
 </head>
 
 <body>
-    <?php include 'menu.php'; ?>
+    <?php include './portfolio/html/menu.php'; ?>
     <br>
     <br>
     <div class="top">
